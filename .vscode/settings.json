@@ -1,0 +1,6 @@
+{
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "interactiveWindow.collapseCellInputCode": "never",
+    "python.REPL.enableREPLSmartSend": false,
+    "interactiveWindow.executeWithShiftEnter": true
+}
