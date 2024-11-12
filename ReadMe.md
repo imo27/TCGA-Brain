@@ -1,4 +1,4 @@
-# Differential analyis of Glioblastoma Multiforme (GBM) Tissue
+# Differential Genea Expression Analysis of Glioblastoma Multiforme (GBM) Tissue
 
 ### Rationale
 In this analysis, I aim to identify genes that are differentially expressed in Glioblastoma Multiforme (GBM) tumors compared to normal tissue. Understanding differential gene expression in GBM may reveal insights into tumor biology, potential biomarkers, or therapeutic targets. I will perform the following series of steps:
